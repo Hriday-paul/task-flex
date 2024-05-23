@@ -2,7 +2,7 @@
 const PriceCard = ({duration}:{duration : number}) => {
     return (
         <div>
-            <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg  md:p-8 bg-[#F7F8F9]" data-aos="fade-up" data-aos-duration='1500'>
+            <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg  md:p-8 bg-[#F7F8F9]">
                 <span className="bg-green-300 bg-opacity-30 rounded-full px-2 py-1 text-green-500 text-xs font-popins font-medium text-center">PRICING</span>
                 <h3
                     className="m-0 text-base font-semibold leading-tight tracking-tight text-green-500 border-0 my-5">

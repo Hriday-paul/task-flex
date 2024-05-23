@@ -7,7 +7,7 @@ const HomeFeature2 = () => {
             {/* bg content */}
             <div className="w-full lg:absolute top-0 left-0 z-20 pt-16">
                 <div className="max-w-6xl mx-auto px-5">
-                    <div className="text-center w-full lg:w-3/5 mx-auto" data-aos="fade-up" data-aos-duration='1500'>
+                    <div className="text-center w-full lg:w-3/5 mx-auto">
                         <span className="bg-green-300 bg-opacity-30 rounded-full px-2 py-1 text-green-500 text-xs font-popins font-medium text-center">NUMBERS</span>
                         <h2 className="text-gray-800 text-4xl md:text-4xl lg:text-5xl my-4 font-bold font-popins">We believe in the power of data</h2>
                         <h5 className="text-gray-700 font-medium font-popins text-base">Flex is the only business platform that lets you run your business on one platform, seamlessly across all digital channels.</h5>

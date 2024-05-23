@@ -6,7 +6,7 @@ const HomeFeature4 = () => {
     return (
         <div className="bg-white">
             <div className="max-w-6xl mx-auto px-5 py-28">
-                <div data-aos="fade-right" data-aos-duration='1500'>
+                <div>
                     <span className="bg-green-300 bg-opacity-30 rounded-full px-2 py-1 text-green-500 text-xs font-popins font-medium text-center">PRICING</span>
                     <h2 className="text-gray-800 text-4xl md:text-4xl lg:text-5xl my-4 font-bold font-popins">Flexible pricing plan for your startup</h2>
                     <h5 className="text-gray-700 font-medium font-popins text-base">Pricing that scales with your business immediately.</h5>
